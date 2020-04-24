@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587694330121.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "794419638",
+    "id" : "A6F2D49F",
+    "lastKnownWriteTime" : 1587709527,
+    "last_content_update" : 1587709527980,
+    "path" : "~/Documents/GST:WM/Zine stuff/src/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "104,62",
+        "scrollLine" : "95",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

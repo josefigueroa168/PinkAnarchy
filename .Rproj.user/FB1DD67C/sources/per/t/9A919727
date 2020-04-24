@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587695200725.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1506964921",
+    "id" : "9A919727",
+    "lastKnownWriteTime" : 1587709204,
+    "last_content_update" : 1587709204209,
+    "path" : "~/Documents/GST:WM/Zine stuff/src/www/style.css",
+    "project_path" : "www/style.css",
+    "properties" : {
+        "cursorPosition" : "108,0",
+        "scrollLine" : "98",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

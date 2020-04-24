@@ -1,0 +1,121 @@
+body {
+  background: rgb(221, 70, 247);
+  color: #000;
+}
+
+.heading {
+  text-align: center;
+}
+
+.author {
+  position: absolute;
+  bottom: 0;
+}
+
+.p1meme {
+  text-align: center;
+}
+
+.p2bg {
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
+}
+
+.p2bg img {
+  height: 100%;
+  width: 100%;
+}
+
+.p2body {
+  position: fixed;
+  top:0;
+  width: 500px;
+  margin-left: 10px;
+}
+
+#p3 .fp-tableCell {
+  vertical-align: top;
+}
+
+.question {
+  text-align: center;
+}
+
+.p3imgtop {
+  height: 50%;
+}
+
+.p3imgbtm {
+    height: 50%;
+}
+
+.p3imgbtm img {
+  float: right;
+}
+
+hr {
+  margin-top:0;
+  margin-bottom:0;
+  border: 0;
+  width:100%;
+  border-top: 1px solid #000;
+}
+
+.p4body {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#p5 .fp-tableCell {
+  vertical-align: top;
+}
+
+.p5logo {
+  width: 20%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.p5logotext {
+  width: 75%;
+  float: left;
+  padding-left: 5%;
+}
+
+.p5gaymartext {
+  width: 40%;
+  text-align: justify;
+  float:left;
+}
+
+.p5flag {
+  width: 55%;
+  float: right;
+}
+
+.p5wrapper1{
+  width: 100%;
+}
+
+.p5wrapper2 {
+  width: 100%;
+}
+
+#p6 .fp-tableCell {
+  vertical-align: top;
+}
+
+.p6heading {
+  text-align:center;
+}
+
+.rainbow-text {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text;
+  color:transparent;
+}
+
+.p6meme {
+  width: 100%;
+  text-align:center;
+}
